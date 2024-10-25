@@ -81,7 +81,7 @@ productivity report:
 ```json
 {
   "report": {
-    "user": "Abdulaziz Hamood Adhaib",
+    "user": "Abdulaziz Homoud Othip",
     "period": "2024-10-01 to 2024-10-22",
     "total_tasks_completed": 25,
     "average_daily_focus_time": "5 hours",
